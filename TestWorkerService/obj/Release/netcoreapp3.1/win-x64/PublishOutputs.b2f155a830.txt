@@ -1,4 +1,0 @@
-C:\Users\a.arabuli\Desktop\Console.publish\appsettings.Development.json
-C:\Users\a.arabuli\Desktop\Console.publish\appsettings.json
-C:\Users\a.arabuli\Desktop\Console.publish\TestWorkerService.pdb
-C:\Users\a.arabuli\Desktop\Console.publish\TestWorkerService.exe
